@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+/*
+ * style.css
+ */
+body {
+	font-family: 'Baloo Tammudu 2', cursive;
+	padding-top: 50px;
+	background-color: #c1c1c1;
+}
+
+.footer {
+	font-family: 'Baloo Tammudu 2', cursive;
+	left: 0;
+	bottom: 0;
+	position: fixed;
+	padding:10px;
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
